@@ -122,9 +122,17 @@
       <label for="psw-repeat"><b>Repeat Password</b></label>
       <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
 
-      <p>By creating an account, you agree to our <a href="#">Terms & Privacy</a>.</p>
-      <button type="submit" class="registerbtn">Register</button>
-    </div>
+   <p>
+  By creating an account, you agree to our 
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Flove%2F&psig=AOvVaw1pyo74w6P8Rd5bucdrByN2&ust=1727163094010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj2mYjG2IgDFQAAAAAdAAAAABAE" 
+     style="color: #007bff; text-decoration: none;">
+    Terms & Privacy
+  </a>.
+</p>
+<button type="submit" class="registerbtn" style="background-color: #007bff; border: none; padding: 10px 20px; color: white; border-radius: 5px; cursor: pointer; font-size: 16px;">
+  Register
+</button>
+
 
     <div class="container signin">
       <p>Already have an account? <a href="#">Sign in</a>.</p>
