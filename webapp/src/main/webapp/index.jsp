@@ -103,7 +103,7 @@
 
   <form action="action_page.php">
     <div class="container">
-      <h1>Register for DevOps + AWS Training 2025</h1>
+      <h1>Register for DevOps + AWS Training 2024</h1>
       <p>Fill in this form to create an account.</p>
       <hr>
 
